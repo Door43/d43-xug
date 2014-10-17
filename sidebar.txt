@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xug:home|Door43 (xug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xug|d43-xug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xug/archive/master.zip|d43-xug.zip]]
+
+**Recent Changes**
+{{changes>ns = xug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xug|Ethnologue data]]
+
